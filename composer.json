@@ -1,0 +1,21 @@
+{
+    "name": "noobphp/route",
+    "description": "simple route",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pxb",
+            "email": "768984347@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "noobphp/request": "dev-master",
+        "noobphp/factory": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Noob\\Route\\": "src/"
+        }
+    }
+}
