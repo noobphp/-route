@@ -1,2 +1,2 @@
-# -route
+# route
 simple route
